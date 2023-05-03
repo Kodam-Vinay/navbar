@@ -1,0 +1,23 @@
+#link1{
+    color: black;
+}
+
+#link2{
+    color: black;
+}
+
+#link3{
+    color: black;
+}
+
+#link4{
+    color: black;
+}
+
+.linear-gradient{
+    background-image: linear-gradient(to right, yellow, red);
+}
+
+.details-section{
+    
+}
